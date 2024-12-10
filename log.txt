@@ -4,7 +4,6 @@
 Аналогичный скрипт я выполнил здесь.
 
 Добавлять никакие дополнительные ответы я ему не буду, учить отвечать его через BERT, я тоже не буду - предоставляйте нормальный конфиг. Я не пришел учиться машинному обучению.
-Если это задание не будет принято в такой форме - я просто расторгаю договор с практикуком, работодателю аргументирую это тем, что трачу время на какую-то херню.
 
 (rasa_env2) antonpopov@CV9WYCN7RK-MBP architecture-sprint-5 % rasa run --enable-api --debug --cors "*"
 /Users/antonpopov/architecture-sprint-5/rasa_env2/lib/python3.10/site-packages/rasa/core/tracker_store.py:1044: MovedIn20Warning: Deprecated API features detected! These feature(s) are not compatible with SQLAlchemy 2.0. To prevent incompatible upgrades prior to updating applications, ensure requirements files are pinned to "sqlalchemy<2.0". Set environment variable SQLALCHEMY_WARN_20=1 to show all deprecation warnings.  Set environment variable SQLALCHEMY_SILENCE_UBER_WARNING=1 to silence this message. (Background on SQLAlchemy 2.0 at: https://sqlalche.me/e/b8d9)
